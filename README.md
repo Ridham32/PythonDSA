@@ -1,4 +1,4 @@
-## DSA Practice- Python
+## DSA Practice- Python🐍
 This repository contains my **Data Structures and Algorithms (DSA)** practice solutions.
 I am solving problems regularly to strengthen problem-solving skills and build strong fundamentals.
 
